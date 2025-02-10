@@ -1,0 +1,16 @@
+[project]
+name = "langchain-agentic-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=0.6.3",
+    "faiss-cpu>=1.10.0",
+    "langchain-community>=0.3.16",
+    "langchain-openai>=0.3.3",
+    "langchain>=0.3.17",
+    "openai>=1.61.0",
+    "pypdf>=5.2.0",
+    "tiktoken>=0.8.0",
+]
