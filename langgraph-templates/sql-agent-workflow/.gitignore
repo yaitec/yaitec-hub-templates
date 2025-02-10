@@ -1,0 +1,5 @@
+Chinook.db
+.env
+.env.*
+!.env.example
+*pycache*
